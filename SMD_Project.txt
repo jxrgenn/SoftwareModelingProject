@@ -1,0 +1,31 @@
+SMD Project
+
+Members:
+1. Jurgen Halili
+2. Endi Shima
+3. Arlind Hoxha
+4. Soni Deliallisi
+5. Kosta Belba
+
+Description:
+Our project is a system that manages a hotel. It has many functionalities varying from the levels of security. 
+Users can be: Clients, Managers, Administrators
+
+Clients:
+1. Clients can check free rooms.
+2. Clients can see new offers and Real-Time prices.
+3. Clients can buy bundles and reserve rooms for future endeavors.
+4. Clients can call room service directly from the app.
+5. Clients can give their thoughts and reviews for the Hotel, workers and managers.
+
+Managers:
+1. Managers can see the availability of every room. Including the price of the room.
+2. Managers can have a look at all the workers' performances, based on the reviews from customers.
+3. Managers can give orders to workers directly from their app.
+4. Managers can update the prices and direct availability of the rooms.
+
+Administrators:
+1. Administrators can check everything the other 2 levels can. 
+2. Administrators can update everything on the website based on their liking.
+3. Administrators are required to upkeep the website and app. This includes giving orders to workers and rearrranging prices and accomodation.
+
