@@ -6,6 +6,7 @@ Members:
 3. Arlind Hoxha
 4. Soni Deliallisi
 5. Kosta Belba
+6. Vinsent Hasula
 
 Description:
 Our project is a system that manages a hotel. It has many functionalities varying from the levels of security. 
