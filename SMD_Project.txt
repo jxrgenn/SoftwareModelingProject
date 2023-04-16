@@ -19,6 +19,10 @@ Clients:
 4. Clients can call room service directly from the app.
 5. Clients can give their thoughts and reviews for the Hotel, workers and managers.
 
+Workers:
+1. Workers can check rooms that are in need of room service/cleaning etc.
+2. Workers can recieve direct notifications from managers. They are orders which consist of the room number and the description of what is needed to be done.
+
 Managers:
 1. Managers can see the availability of every room. Including the price of the room.
 2. Managers can have a look at all the workers' performances, based on the reviews from customers.
